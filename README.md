@@ -1,2 +1,2 @@
 # split
-init project
+## 一个用于合租分账管理的系统
